@@ -1,4 +1,6 @@
 # Social-Media-Engagement-Project-Analysis
+![photo-1683721003111-070bcc053d8b](https://github.com/user-attachments/assets/8d990732-3762-4c81-9396-a2787be75317)
+
 
 **Overview:**
 In this project my aim is to analyze engagement behavior across social media platforms to uncover patterns that reflect customer preferences, campaign performance timing, and content strategies.
