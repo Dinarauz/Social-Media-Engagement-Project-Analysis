@@ -11,8 +11,22 @@ In this project my aim is to analyze engagement behavior across social media pla
 1. Which types of content formats show the highest interaction levels?
 2. How does engagement vary across digital platforms?
 3. Are there optimal times or days to publish for maximum customer engagement?
-4. What role does customer sentiment play in engagement success?
-5. Do high-performing posts (top 10%) share common features?
+4. Do high-performing posts (top 10%) share common features?
+
+**Key Findings:**
+1. Average Engagement by Platform: Instagram has highest average engagement >3700. Facebook has second highest strong engagement of 3400. Twitter have the lowest engagement 1700. So the Instagram delivers the strongest user interaction.
+2. Average Engagement by Content Format: Polls are most engaging 3800, followed closely by Videos 3500, then Carousel 3100. Then Images 2600, and lastly Text posts 2200. Interactive formats (polls, videos) outperform others.
+3. Average Engagement by Hour of Day: 1 AM peak hour of 5500, then 9AM, 4AM, 9PM other high engegement windows. Users engage most during off-peak hours (early morning, late night, and evening).
+4. Average Engagement by Day of Week: Top days: Sunday, Friday, Wednesday, Tuesday. Lowest Days: Monday, Saturday. Engagement peaks on weekends and the end of the workweek. Saturday showing second lowest which means people are more likely to be off the social media compared to sundays.
+5. Top Performing Post Types (Top 10%): Videos: Most frequent among top 10% performing posts. Followed by Polls: Second most frequent
+and then Carousels: Also present in top-performing content. High-performing content is driven by rich, visual, or interactive formats.
+
+**Summary:**
+To maximize engagement:
+- Focus on **video** and **poll-based content**
+- Prioritize **Instagram and Facebook**
+- Schedule posts around **1 AM, 9 AM, and 9 PM**
+- Target **Sundays and Fridays** for key posts
 
 
 **Power Bi Dashboard Link:** 
