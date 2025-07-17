@@ -13,3 +13,6 @@ In this project my aim is to analyze engagement behavior across social media pla
 3. Are there optimal times or days to publish for maximum customer engagement?
 4. What role does customer sentiment play in engagement success?
 5. Do high-performing posts (top 10%) share common features?
+
+
+Power Bi Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiZTgwY2JlZmItNDJkNy00ZDdhLWFkZjQtZmFiOTRkNGY2NmU0IiwidCI6ImMwOGUyNWNkLTNjOWYtNDZlMi04MTU5LWUzNTY2ZWJlMWI5NiIsImMiOjN9
