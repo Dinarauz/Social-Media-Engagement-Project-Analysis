@@ -13,6 +13,10 @@ In this project my aim is to analyze engagement behavior across social media pla
 3. Are there optimal times or days to publish for maximum customer engagement?
 4. Do high-performing posts (top 10%) share common features?
 
+**Tools Used:**
+1. Python: Pandas, Seaborn, Matplotlib, numpy, Kagglehub.
+2. Power Bi: Interactive Dashboard
+
 **Key Findings:**
 1. Average Engagement by Platform: Instagram has highest average engagement >3700. Facebook has second highest strong engagement of 3400. Twitter have the lowest engagement 1700. So the Instagram delivers the strongest user interaction.
 2. Average Engagement by Content Format: Polls are most engaging 3800, followed closely by Videos 3500, then Carousel 3100. Then Images 2600, and lastly Text posts 2200. Interactive formats (polls, videos) outperform others.
