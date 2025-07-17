@@ -15,7 +15,9 @@ In this project my aim is to analyze engagement behavior across social media pla
 5. Do high-performing posts (top 10%) share common features?
 
 
-**Power Bi Dashboard Link:** https://app.powerbi.com/view?r=eyJrIjoiZTgwY2JlZmItNDJkNy00ZDdhLWFkZjQtZmFiOTRkNGY2NmU0IiwidCI6ImMwOGUyNWNkLTNjOWYtNDZlMi04MTU5LWUzNTY2ZWJlMWI5NiIsImMiOjN9
+**Power Bi Dashboard Link:** 
+
+https://app.powerbi.com/groups/79249d93-89f9-42e7-a5be-f7bd52abace8/reports/812dcbff-c0bd-4e8d-b407-1487fbcedbcf/1af2bc2cc0869c110bee?experience=power-bi
 
 **Power Bi Dashboard PDF:**
 [Social Media Engagement Analysis.pdf](https://github.com/user-attachments/files/21302376/Social.Media.Engagement.Analysis.pdf)
